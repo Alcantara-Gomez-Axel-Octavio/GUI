@@ -1,8 +1,8 @@
 from tkinter import *
 from tkinter import Tk
 
-from Conversor import Conversor
+from InicioSesion import InicioSesion
 
 raiz= Tk()
-Conversor(raiz)
+InicioSesion(raiz)
 raiz.mainloop()
