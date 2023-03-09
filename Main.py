@@ -1,8 +1,8 @@
 from tkinter import *
 from tkinter import Tk
 
-from InicioSesion import InicioSesion
+from Actividad2 import Actividad2
 
 raiz= Tk()
-InicioSesion(raiz)
+Actividad2(raiz)
 raiz.mainloop()
