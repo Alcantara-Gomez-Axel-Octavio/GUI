@@ -36,7 +36,7 @@ class InicioSesion:
         ttk.Label(mainFrame, text="").grid(column = 1, row=1)
         ttk.Label(mainFrame, text="Contrasena:").grid(column = 0, row=3)
 
-
+        
     
         ttk.Button(mainFrame, text="Calcular",command=self.Leer ).grid(column = 1, row=5, sticky=(E))
 
